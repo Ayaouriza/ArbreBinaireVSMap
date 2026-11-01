@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793189544 source:c:\users\hp\desktop\ilisi 2\mr.bouziri\mapvsarbrebinaire\main.cpp
+	<iostream>
+	<map>
+	<chrono>
+
